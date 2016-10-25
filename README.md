@@ -1,9 +1,9 @@
 
-# txm-docs
+# Transaction Monitoring Documentation
 
 [![Build Status](https://travis-ci.org/hmrc/txm-docs.svg?branch=master)](https://travis-ci.org/hmrc/txm-docs) [ ![Download](https://api.bintray.com/packages/hmrc/releases/txm-docs/images/download.svg) ](https://bintray.com/hmrc/releases/txm-docs/_latestVersion)
 
-This is a placeholder README.md for a new repository
+Documentation on our auditing and reputation services.
 
 ### License
 
